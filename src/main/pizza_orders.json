@@ -1,0 +1,26 @@
+
+==========================
+Order ID: ORD1-1745215351648
+Order Time: 2025-04-21T08:02:32.308491800
+Delivery: Yes
+Customer [Name: MANZI David Mercy, Address: KK 38 Ave, Phone: 0793245612]
+Pizza 1: Pizza [Slices: 3, Meat: BACON, Veggie: ONION, Crust: THIN, Toppings: [CHEESE, PINEAPPLE], Size: MEDIUM, Price: $21.0]
+Pizza 2: Pizza [Slices: 2, Meat: BEEF, Veggie: ONION, Crust: STUFFED, Toppings: [GARLIC], Size: SMALL, Price: $16.5]
+Pizza 3: Pizza [Slices: 1, Meat: PORK, Veggie: PEPPER, Crust: THIN, Toppings: [PESTO], Size: SMALL, Price: $13.5]
+Pizza 4: Pizza [Slices: 2, Meat: CHICKEN, Veggie: MUSHROOM, Crust: THICK, Toppings: [PESTO], Size: SMALL, Price: $14.5]
+Pizza 5: Pizza [Slices: 1, Meat: BEEF, Veggie: ONION, Crust: THIN, Toppings: [BASIL], Size: SMALL, Price: $13.5]
+Pizza 6: Pizza [Slices: 1, Meat: BACON, Veggie: ONION, Crust: THIN, Toppings: [PESTO], Size: SMALL, Price: $13.5]
+Total Price: $87.88
+==========================
+
+
+==========================
+Order ID: ORD1-1745219707960
+Order Time: 2025-04-21T09:15:08.232953400
+Delivery: Yes
+Customer [Name: CIZA Justesse, Address: KN 459 St, Phone: 0700000000]
+Pizza 1: Pizza [Slices: 2, Meat: CHICKEN, Veggie: SPINACH, Crust: STUFFED, Toppings: [CHEESE, PESTO], Size: SMALL, Price: $17.0]
+Pizza 2: Pizza [Slices: 4, Meat: BEEF, Veggie: OLIVES, Crust: THIN, Toppings: [BASIL, BBQ_SAUCE, JALAPENOS], Size: MEDIUM, Price: $21.75]
+Total Price: $36.81
+==========================
+
