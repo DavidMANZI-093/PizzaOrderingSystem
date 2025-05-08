@@ -1,7 +1,4 @@
 # Pizza Ordering System
-Author: **KASOGA Justesse**  
-Reg No: **11471_2017**
-
 ---
 
 ## 📦 Project Structure
